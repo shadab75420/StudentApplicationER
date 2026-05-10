@@ -4,7 +4,7 @@
 
 This project is a C# Console Application developed using .NET and Microsoft SQL Server.
 
-The application demonstrates the implementation of:
+The application demonstrates the implementation of: 
 
 - SQL Server Database Connection
 - Insert Operation
